@@ -1,0 +1,19 @@
+{
+  "name": "http_get",
+  "version": "1.3.0",
+  "description": "Make a simple HTTP/HTTPS GET request.",
+  "main": "http_get.js",
+  "scripts": {
+    "test": "node http_get.js https://google.com"
+  },
+  "keywords": [
+    "http",
+	"https",
+    "request",
+    "get",
+    "simple",
+    "basic",
+    "validator"
+  ],
+  "author": "GeaR SiX"
+}

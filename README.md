@@ -1,4 +1,4 @@
-# http-get
+# http_get
 _Really_ simple GET requests for http & https
 
 ## Contents
